@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectaalexand00susegoog_0005.png"; bbox 0 0 4388 5772; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 652 453 1877 850">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 652 453 1877 850">
+     <span class='ocr_line' id='line_1_1' title="bbox 652 453 1877 850; baseline -0.021 -58"><span class='ocrx_word' id='word_1_1' title='bbox 652 790 654 794; x_wconf 77' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 755 587 1054 770; x_wconf 79' lang='grc' dir='ltr'>ιΝυεκ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1137 581 1748 850; x_wconf 66' lang='lat' dir='ltr'>scammum</span> <span class='ocrx_word' id='word_1_4' title='bbox 1870 453 1877 466; x_wconf 31' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 227 1231 1974 1869">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 204 1177 1974 1869">
+     <span class='ocr_line' id='line_1_2' title="bbox 441 1231 1974 1552; baseline -0.005 -17.205"><span class='ocrx_word' id='word_1_5' title='bbox 381 1231 1974 1552; x_wconf 69' lang='lat' dir='ltr'>VNIVERSITATELITTERARJ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 227 1653 1791 1869; baseline -0.012 0"><span class='ocrx_word' id='word_1_6' title='bbox 227 1846 233 1869; x_wconf 85' lang='grc'>,</span> <span class='ocrx_word' id='word_1_7' title='bbox 442 1714 445 1730; x_wconf 69' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 571 1655 573 1660; x_wconf 87' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 711 1653 1791 1852; x_wconf 65' lang='grc' dir='ltr'>οΒΥΡΗΙεννΑωΕΝεΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 793 2381 1709 2470">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 793 2315 1989 2524">
+     <span class='ocr_line' id='line_1_4' title="bbox 793 2381 1709 2470; baseline -0.007 0"><span class='ocrx_word' id='word_1_10' title='bbox 793 2381 949 2468; x_wconf 76' lang='lat' dir='ltr'>ANm</span> <span class='ocrx_word' id='word_1_11' title='bbox 1000 2382 1709 2470; x_wconf 61' lang='lat' dir='ltr'><strong>moechm-mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2198 5771">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2198 5771">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2198 5771; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2198 5771; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
